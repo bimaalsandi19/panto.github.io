@@ -264,6 +264,7 @@ p{
     margin-left: 20px;
 }
 
+
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
 /* home */
@@ -306,5 +307,8 @@ h1{
 }
 .experience img{
     display: block;
+}
+.owl-carousel{
+    display: none;
 }
  }
